@@ -1,7 +1,7 @@
 import cv2  
   
 # path  
-path = 'india.png'
+path = 'india.jpg'
   
 # Reading an image in default mode 
 image = cv2.imread(path) 
