@@ -1,0 +1,10 @@
+###### Node Server Requirements ######
+
+ -Python 3.6.9
+ -pymysql for python via pip
+ -Flask via pip
+ -requests via pip
+ -numpy via pip
+ -OpenCV:
+
+     - sudo apt-get install python3-opencv => pip3 install opencv-contrib-python
